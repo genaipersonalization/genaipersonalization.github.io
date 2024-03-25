@@ -1,0 +1,9 @@
+theme: jekyll-theme-cayman
+title: "Domain Generalization"
+tagline: "Virtual Conference"
+tagline: "@ICLR2023"
+github:
+  is_project_page: false
+kramdown:
+    auto_ids: true
+markdown: GFM
