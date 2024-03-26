@@ -1,29 +1,34 @@
 # Organizers
 
+
+<img src="images/Narges.png" alt="henry" width="100"/>  
+
+[Narges Tabari](), AWS AI Labs
+
+
 <img src="images/aniket.jpg" alt="aniket" width="100"/>  
 
-[Aniket Deshmukh](https://aniketde.github.io), Applied Scientist, Amazon
-
-<img src="images/henry.png" alt="henry" width="100"/>  
-
-[Henry Gouk](https://www.henrygouk.com), RAEng Research Fellow, School of Informatics at the University of Edinburgh
+[Aniket Deshmukh](https://aniketde.github.io), AWS AI Labs
 
 
 <img src="images/Hospedales_T.jpg" alt="Hospedales" width="100"/>  
 
-[Timothy Hospedales](https://homepages.inf.ed.ac.uk/thospeda/), Professor, School of Informatics at the University of Edinburgh
+[Wang-Cheng Kang](), Google DeepMind
+
+<img src="images/Rashmi.png" alt="cuiling" width="100"/>  
+
+[Rashmi Gangadharaiah](), AWS AI Labs
 
 
-<img src="images/cuiling.png" alt="cuiling" width="100"/>  
+<img src="images/Hamed.jpeg" alt="Da" width="100"/>  
 
-[Cuiling Lan](https://www.microsoft.com/en-us/research/people/culan/), Senior Researcher, Microsoft
-
-
-<img src="images/Da.jpeg" alt="Da" width="100"/>  
-
-[Da Li](https://dali-dl.github.io), Senior Research Scientist, Samsung AI 
+[Hamed Zaman](), University of Massachusetts Amherst
 
 
-<img src="images/ky.png" alt="ky" width="100"/>  
+<img src="images/Julian.png" alt="ky" width="100"/>  
 
-[Kaiyang Zhou](https://kaiyangzhou.github.io), Research Fellow, NTU Singapore
+[Julian McAuley](), University of California San Diego
+
+<img src="images/George.png" alt="ky" width="100"/>  
+
+[George Karypis](), University of Minnesotao
