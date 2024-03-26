@@ -29,5 +29,3 @@ title: Invited Speakers
 **[Prof. Dietmar Jannach](https://www.aau.at/en/aics/research-groups/infsys/team/dietmar-jannach/), University of Klagenfurt, Austria.**
 
 **Bio:** 
-
-<img src="images/lequan_new_crop.jpeg" alt="Lequan" width="100"/>  
