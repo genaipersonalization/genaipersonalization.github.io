@@ -1,14 +1,12 @@
 # Organizers
 
+<img src="images/Narges.png" alt="Narges" width="100"/>  
+
+[Narges Tabari](), AWS AI Labs
 
 <img src="images/aniket.jpg" alt="aniket" width="100"/>  
 
 [Aniket Deshmukh](https://aniketde.github.io), AWS AI Labs
-
-
-<img src="images/Narges.png" alt="Narges" width="100"/>  
-
-[Narges Tabari](), AWS AI Labs
 
 
 <img src="images/Wang.jpg" alt="Wang" width="100"/>  
