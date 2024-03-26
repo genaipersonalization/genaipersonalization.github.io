@@ -27,7 +27,7 @@ We will welcome papers that leverage generative models with a goal of recommenda
 
 ### Submission Instructions:
 - Authors should submit papers with up to 5 pages excluding references and supplementary materials via [OpenReview]() .
-- Submissions should be formatted using the official KDD 2024 template which can be found at [https://iclr.cc/Conferences/2023/CallForPapers](https://kdd2024.kdd.org/research-track-call-for-papers/).
+- Submissions should be formatted using the official KDD 2024 template which can be found at [https://kdd2024.kdd.org/research-track-call-for-papers/](https://kdd2024.kdd.org/research-track-call-for-papers/).
 - Submissions should be fully anonymized for double-blind review
 - Dual submission policy: This workshop welcomes ongoing and unpublished work but will also accept papers that are under review or have recently been accepted at other venues.
 
