@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
-title: "Domain Generalization"
-tagline: "Virtual Conference"
-tagline: "@ICLR2023"
+title: "Gen AI for RecSys and Personalization"
+tagline: "@KDD2024"
+tagline: "GenAI"
 github:
   is_project_page: false
 kramdown:
