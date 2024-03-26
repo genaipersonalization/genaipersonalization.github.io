@@ -1,6 +1,6 @@
 # Organizers
 
-<img src="images/Narges.png" alt="Narges" width="100"/>  
+<img src="images/Narges.jpg" alt="Narges" width="100"/>  
 
 [Narges Tabari](), AWS AI Labs
 
