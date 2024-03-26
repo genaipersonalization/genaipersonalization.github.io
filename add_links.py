@@ -4,7 +4,7 @@ from IPython import embed
 import os
 import shutil
 import numpy as np
-sitename = 'https://domaingen.github.io'
+sitename = 'https://genaipersonalization.github.io/'
 
 write_file = open('accepted.md', 'w')
 
