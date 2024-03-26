@@ -4,7 +4,7 @@
 
 [Narges Tabari](), AWS AI Labs
 
-<img src="images/aniket.jpg" alt="aniket" width="100"/>  
+<img src="images/Aniket.JPG" alt="aniket" width="100"/>  
 
 [Aniket Deshmukh](https://aniketde.github.io), AWS AI Labs
 
