@@ -1,6 +1,6 @@
 ---
 layout: default
-title: First Workshop on Generative AI for Recommender Systems and Personalization
+title: Generative AI for Recommender Systems and Personalization
 ---
 ---
 
