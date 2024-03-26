@@ -32,8 +32,15 @@ We will welcome papers that leverage generative models with a goal of recommenda
 - Dual submission policy: This workshop welcomes ongoing and unpublished work but will also accept papers that are under review or have recently been accepted at other venues.
 
 ### FAQ
-- Can previously published paper be submitted to the workshop?: 
+- Can previously published paper be submitted to the workshop?:
+- Can I submit work that is currently under review elsewhere?
 - How to access the workshop on the day of the event:
+- What is the page limit for submissions?
+- Are there any specific formatting guidelines for submissions?
+- How should supplementary materials be submitted?
+- Where can I submit my paper?
+
+### Panel:
 
 ### Invited speakers:
 - Ed Chi, Google DeepMind
@@ -42,15 +49,12 @@ We will welcome papers that leverage generative models with a goal of recommenda
 - Xiao-Ming Wu, The Hong Kong Polytechnic University
 - Dawen Liang, Netflix
 
-
-### Panel:
-
-
 ### Organizers:
-- Aniket Deshmukh, AWS AI Labs
 - Narges Tabari, AWS AI Labs
+- Aniket Deshmukh, AWS AI Labs
 - Wang-Cheng Kang, Google DeepMind
 - Hamed Zamani, University of Massachusetts Amherst
 - Rashmi Gangadharaiah, AWS AI Labs
 - Julian McAuley, University of California San Diego
 - George Karypis, University of Minnesota
+
