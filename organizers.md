@@ -11,7 +11,7 @@
 [Aniket Deshmukh](https://aniketde.github.io), AWS AI Labs
 
 
-<img src="images/Hospedales_T.jpg" alt="Hospedales" width="100"/>  
+<img src="images/Wang.jpg" alt="Hospedales" width="100"/>  
 
 [Wang-Cheng Kang](), Google DeepMind
 
