@@ -47,8 +47,8 @@ We will welcome papers that leverage generative models with a goal of recommenda
 
 
 ### Organizers:
-- Narges Tabari, AWS AI Labs
 - Aniket Deshmukh, AWS AI Labs
+- Narges Tabari, AWS AI Labs
 - Wang-Cheng Kang, Google DeepMind
 - Hamed Zamani, University of Massachusetts Amherst
 - Rashmi Gangadharaiah, AWS AI Labs
