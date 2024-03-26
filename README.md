@@ -1,2 +1,2 @@
-# genai.github.io
+# genaipersonalization.github.io 
 Gen AI
